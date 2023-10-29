@@ -1,3 +1,4 @@
 read prince 1, price2
 sum=price1+price2
 print sum
+If the total amount exceeds 50 OMR, give 5% discount: else, no discount.
