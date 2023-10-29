@@ -3,3 +3,5 @@ sum=price1+price2
 print sum
 if sum is greater than 500 then give 10% discount else
 no discount
+points=points+1
+print points
